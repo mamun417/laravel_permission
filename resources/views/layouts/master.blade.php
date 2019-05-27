@@ -15,8 +15,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>Laravel Permission | Dashboard</title>
-
-    <link href="{{ asset('public/inspinia/css/bootstrap.min.css') }}" rel="stylesheet">
+        <link href="{{ asset('public/inspinia/css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="{{ asset('public/inspinia/css/plugins/jsTree/style.min.css') }}" rel="stylesheet">
     <link href="{{ asset('public/inspinia/font-awesome/css/font-awesome.css') }}" rel="stylesheet">
     <link href="{{ asset('public/inspinia/css/plugins/dataTables/datatables.min.css') }}" rel="stylesheet">
